@@ -4,9 +4,7 @@ AWS MFA session manager
 
 **Install**
 ```
-git clone git@github.com:panchgonzalez/sesh.git
-cd sesh
-pip install -e .
+pip install aws-sesh
 ```
 
 **Setup**
