@@ -1,0 +1,2 @@
+# sesh
+aws session manager
