@@ -1,5 +1,7 @@
 # sesh
 
+AWS MFA session manager
+
 **Install**
 ```
 git clone git@github.com:panchgonzalez/sesh.git
